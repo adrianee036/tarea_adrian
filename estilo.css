@@ -1,0 +1,18 @@
+p {
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+#titulo {
+ display: inline-block; 
+    
+}
+
+#contenido {
+
+    width:750px; 
+    display: inline-block;
+
+
+}
